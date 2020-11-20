@@ -1,0 +1,196 @@
+BUSINESS OBJECTIVE
+
+Understanding the Business objective
+The Product developed may be good, but if it doesn't meet the business objective is not worthy.
+High level questions
+
+What is the purpose of the project? or why is the project being budgeted?
+What are the goals and objectives? or where is the ROI for the project?
+In the eye of the project, what is success or how will it measured?
+
+EG:User wants to build a comprehensive feature for understanding the behaviour of a customer/accounts in an automated way
+Proceeding without understanding these questions is going to embarass the BA at some point.
+-------------------
+WRITING A BUSINESS CASE:
+A document that is presented to decision makers, based on the certain actions, here is the cost-benefit ratio.
+Its the driver of the project.
+
+Its used to convince decision makers,of the merits of solving that particular problem.
+Business analyst may also have a task to create business case.
+
+Business Case :
+
+1.Executive Summary- Summary for the executive people to skim through fast
+2.Problem Statement
+3.Analysis
+4.Problem Solution
+5.Cost-Benefit Ratio
+6.Recommendation
+-----------------------------
+STATKEHOLDER IDENTIFICATION:
+Who are stakeholders?
+Stakeholders are any Individual/groups that are either Indirectly or directly affected by the project.
+They may have either positive or negative impact on the project.
+
+As a Biz analyst, we need to engage with them for the requiremnt analysis.
+
+Eg: Executives / Project Members/ Customers / Suppliers / Vendors / Any third- party
+
+-----------------------
+REQUIREMENTS:
+
+60 % of the project fail due to the improper requirements
+
+The requirements may be improper due to the followings:
+1. Missing Requriements
+2. Incorrect Requirements
+3. The requirements may not meet the standards
+
+As a result, its critical to document a good requirement.
+
+Types:
+
+1.Business Requirements
+2.Stakeholder req
+3.Solution req
+4.Transition req
+
+1.Business Req:
+This requirement supports the higher level needs of the organisation
+
+2.Stakeholder Req:
+Needs of the Individual/ groups that are either internal/ external
+
+3.Solution requirements:
+
+This is what the customer needs at the end of the work.
+
+* Functional req
+* Non-Functional req
+* Constraints
+
+1. CONSTRAINTS:
+
+Eg: 
+-->The product budget may not exceed $50000
+-->The product shall run on the company's existing machines only, again due to the budgeting limitations.
+    As a result, we may need to restrict from working on sophisticated technology.
+-->Implementation of the product cannot interrupt daily business
+-->The last 5 years of historical data are needed to support the analysis
+
+2. FUNCTIONAL REQUIREMENTS:
+
+-->High level example of features and functions 
+-->Things products must do
+
+EG:
+The product must display the orders that needs to be delivered
+The prodcut must track the orders that ar
+The product must display the stocks in the inventory
+
+3. NON-FUNCTIONAL REQ:
+
+Look and feel requirements- Interface/ Intended appearance
+Usabailty - The technical ability of the users and trainings if needed
+Performance - How fast/ accurate( Analytics) /safe
+Operational- Products intending Operating requirement
+Maintainability- How adaptable is that for a change How long will the current solution last?
+
+Portabilty-will there be any options for additional plug-in installation in future for enhancement?
+Can this be installed in multiple locatioos?
+
+Security- Who has access to what?
+How confidential is the data
+
+Legal requriements- Confirmance to the laws
+
+Eg:
+** The product shall be easy to use even for the first time users
+** The product shall be upgraded for future users
+** The product shall allow only users to view the partuclar feature
+**The product shall be sccalable to multiple geographies
+
+
+---------------------
+SMART REQUIREMENTS:
+
+1. SPECIFIC. 
+
+Clear no ambiguity
+Consistent, Same terminology throught
+Simple
+
+Questions to ask: what? who? why? where?
+
+Avoid: 
+'Some' 'Several' 'Many'
+EG:
+Sometimes it functions like that, clearly say when it functions incorrectly
+It takes 'several' seconds to load
+BA: Please sepcify exactly or approximatly if it takes 7 secs/ 7 mins
+
+The file needs to be 'downloaded'
+BA: Please specify where it needs to be downloaded.
+
+2. MEASURABLE
+
+Indicators should be quantifiable
+
+Questions to ask: 
+How much?
+How will i know if its accomplished?
+
+EG: User: The system should be fast? 
+BA: Fast? How long the response time should be?
+
+3.ATTAINABLE (Feasible)
+
+Requirements should be within technical expertise
+within the scope of the project
+within the budget
+within the time
+
+You cannot have an outlandish requirements
+
+Questions to ask:
+--Has it been done before?
+--Are there any known constarints? (environmental/ physical/ security)
+
+
+
+Eg: User want 1 sec response, but users are put up in India and server is in london.
+
+So the environment is not conducive
+
+Guideline:
+---If BA is not sure about the technical expertise for the requirements, he needs to conslut technical team before giving a nod
+---Ensure sufficient time/resource/ budget
+
+4. REASONABLE (Worthwhile)
+
+Validate the efforrt is worth the requirement
+
+Questions to ask:
+
+Is it worthwhile?
+
+
+5.TRACABLE:
+
+The requirements needs to be tracebale through design, Implementation and validation phase
+
+Questions to ask:
+
+Is there any possible way through which we can validate this requirement?
+
+
+
+
+
+
+
+
+
+
+
+.
