@@ -1,0 +1,101 @@
+AML is set of reguations that are implemented to curb money laundering activities and to counter terrorist financing activities.
+
+In AML, the source or destination of fund plays a crucial role.
+
+==============
+AML Involves three stages:
+Placement
+Layering 
+Integration
+
+When we investigate, we look into which stages these transaction falls.
+==============
+In investigation also there are various levels like 
+L1,
+The Transaction is analysed from a broad view, if there is any doubt in transaction the RI(Request for Information) is asked.
+L2,
+L3
+===============
+
+
+Retail Banking:
+
+Once onboarded, KYC is there...based on their profile the transactions are run on certain software which will generate an alert
+
+Alert:
+
+Anamolous or unusal Transaction which needs investigation
+
+Alerts are created based on certain criteria:
+
+*Typology
+*Thershold detection scenario
+
+For Eg:
+
+Scenario 1:
+
+High Risk Jurisdiction:
+Any wire that involves high risk jurisdiction
+A is sending a remitance/wire to B 
+
+A resides in a low risk region such as US
+B resided in a high risk area such as UAE
+When there is an outward/Inward remittance from B's accounts, the transactions are monitored
+Now the alert is generated due to High risk jurisdiction Transaction.
+Now, the investigator goes and checks the transaction.
+Note:
+Every bank has its own High Risk Jurisdiction classification 
+
+The Permenant address details of both the account's holders matches, along with their surnames.
+Also, the source of fund seems legitimate.
+Hence, this transaction is marked as not unusual/anamalous transaction.
+
+Scenario 2:
+
+Multiple Originator with Same beneficiaries:
+
+Scenario 3:
+A Customer makes the bank deposit more than the threshold value:
+
+Eg:
+Cash deposit of 1000 Euro/ $10000 is deposited in the account.
+
+The Threshold setting also differs from country to country.
+In India it is INR 50000
+
+In this case the mode of payment is also considered:
+
+-Cash
+-Cheque
+-Inter account transfer/ With in the Bank
+
+Paypal in Europe
+
+
+Scenario 4:
+
+Potential Structuring:
+
+Eg:
+
+I have got $10000 amount
+
+Diving of the amount into 25000, 35k, 20 k, 30 k and deposit in regular intervals.
+
+It may not be in a week or 10 days, it can even be in a quarter.
+
+The transaction inn the current month is compared agains the transaction in the previous quarter, if the transaction seems to be an
+outlier, then an alert is generated.
+
+Scenario 5:
+
+A Customer has not used any cheque transaction in the past 12 months, all of a sudden he seems to use cheque/Instrument.
+
+System can detect and generate and alert
+
+
+Correspondent Bank also play an important role in AML.
+
+=====================
+
