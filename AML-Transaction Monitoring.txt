@@ -34,7 +34,6 @@ Alerts are created based on certain criteria:
 For Eg:
 
 Scenario 1:
-
 High Risk Jurisdiction:
 Any wire that involves high risk jurisdiction
 A is sending a remitance/wire to B 
@@ -89,13 +88,10 @@ The transaction inn the current month is compared agains the transaction in the 
 outlier, then an alert is generated.
 
 Scenario 5:
-
-A Customer has not used any cheque transaction in the past 12 months, all of a sudden he seems to use cheque/Instrument.
+Change in the behaviour:
+A Customer has not particular financial instrument in the past 12 months, all of a sudden he uses that Instrument.
+Source of fund is also seen.
 
 System can detect and generate and alert
-
-
-Correspondent Bank also play an important role in AML.
-
 =====================
 
